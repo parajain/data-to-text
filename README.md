@@ -9,7 +9,7 @@ Some papers related to structured data summarization or description generation.
 
 1. *Joint Models for Concept-to-text Generation*, Ioannis  Konstas University of Edinburgh, 2014
 
-#Wikipedia Infobox/table/wikidata summarization
+# Wikipedia Infobox/table/wikidata summarization
     
 
  1. ***Generating Descriptions from Structured Data Using a Bifocal**
@@ -24,7 +24,7 @@ Some papers related to structured data summarization or description generation.
 
 5.  *Learning to generate one-sentence biographies from Wikidata* Chisholm, Andrew and Radford, Will and Hachey, Ben EACL, 2017
 
-#Data-To-Text
+# Data-To-Text
     
 
 1.  *Unsupervised concept-to-text generation with hypergraphs* Ioannis  Konstas, Mirella Lapata , Journal Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Montréal, Canada
@@ -50,7 +50,7 @@ Some papers related to structured data summarization or description generation.
 
 11. *Data-to-text Generation with Entity Modeling* Ratish Puduppully, Li Dong and Mirella Lapata _2019_
 
-#Other papers:
+# Other papers:
     
 
 1.  *Learning to Sportscast: A Test of Grounded Language Acquisition* In Proceedings of the 25th International Conference on Machine Learning (ICML),. Helsinki, Finland, July 2008.
