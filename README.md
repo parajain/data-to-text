@@ -1,10 +1,10 @@
 
 **Data-to-Text Papers**
-
+<center>Centered text</center>
  **Thesis:**
     
 
-*Joint Models for Concept-to-text Generation*, Ioannis  Konstas University of Edinburgh, 2014
+1. *Joint Models for Concept-to-text Generation*, Ioannis  Konstas University of Edinburgh, 2014
 
 **Wikipedia Infobox/table/wikidata summarization**
     
