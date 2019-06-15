@@ -1,14 +1,15 @@
 
 
-<center>*Data-to-Text Papers*</center>
+*<center>Data-to-Text Papers</center>*
 
+Some papers related to structured data summarization or description generation.
 
- **Thesis:**
+ #Thesis:
     
 
 1. *Joint Models for Concept-to-text Generation*, Ioannis  Konstas University of Edinburgh, 2014
 
-**Wikipedia Infobox/table/wikidata summarization**
+#Wikipedia Infobox/table/wikidata summarization
     
 
  1. ***Generating Descriptions from Structured Data Using a Bifocal**
@@ -23,7 +24,7 @@
 
 5.  *Learning to generate one-sentence biographies from Wikidata* Chisholm, Andrew and Radford, Will and Hachey, Ben EACL, 2017
 
-**Data-To-Text**
+#Data-To-Text
     
 
 1.  *Unsupervised concept-to-text generation with hypergraphs* Ioannis  Konstas, Mirella Lapata , Journal Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Montréal, Canada
@@ -41,15 +42,15 @@
 
 7.  *A simple domain-independent probabilistic approach to generation.*  Angeli, G., Liang, P., and Klein, D. (2010). In Proceedings of the 2010 Conference on EmpiricalMethods in Natural Language Processing, pages 502–512, Cambridge, MA.
 
-8.  ***A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization***    Proceedings of NAACL-HLT 2018, pages 622–627 [http://aclweb.org/anthology/N18-2098](http://aclweb.org/anthology/N18-2098)
+8.  **A Mixed Hierarchical Attention based Encoder-Decoder Approach for Standard Table Summarization**    Proceedings of NAACL-HLT 2018, pages 622–627 [http://aclweb.org/anthology/N18-2098](http://aclweb.org/anthology/N18-2098)
 
 9.  *Automatic Generation of Weather Forecast Texts Using Comprehensive Probabilistic Generation-space Models* Nat. Lang. Eng.  2008
 
 10.  *System Building Cost vs. Output Quality in Data-to-text Generation*  ENLG '09
 
-11. *Data-to-text Generation with Entity Modeling* Ratish Puduppully, Li Dong and Mirella Lapata 2019
+11. *Data-to-text Generation with Entity Modeling* Ratish Puduppully, Li Dong and Mirella Lapata _2019_
 
-**Other papers:**
+#Other papers:
     
 
 1.  *Learning to Sportscast: A Test of Grounded Language Acquisition* In Proceedings of the 25th International Conference on Machine Learning (ICML),. Helsinki, Finland, July 2008.
