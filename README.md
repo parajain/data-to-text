@@ -1,6 +1,8 @@
 
-**Data-to-Text Papers**
-<center>Centered text</center>
+
+<center>**Data-to-Text Papers**</center>
+
+
  **Thesis:**
     
 
