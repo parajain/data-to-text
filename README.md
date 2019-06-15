@@ -4,7 +4,7 @@
 
 Some papers related to structured data summarization or description generation.
 
- #Thesis:
+### Thesis:
     
 
 1. *Joint Models for Concept-to-text Generation*, Ioannis  Konstas University of Edinburgh, 2014
