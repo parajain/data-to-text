@@ -50,6 +50,8 @@ Some papers related to structured data summarization or description generation.
 
 11. *Data-to-text Generation with Entity Modeling* Ratish Puduppully, Li Dong and Mirella Lapata _2019_
 
+12. *Learning Neural Templates for Text Generation* Sam Wiseman, Stuart M. Shieber, Alexander M. Rush
+
 ### Other papers:
     
 
