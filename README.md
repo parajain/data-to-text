@@ -46,21 +46,4 @@ Some papers related to structured data summarization or description generation.
 
 9.  *Automatic Generation of Weather Forecast Texts Using Comprehensive Probabilistic Generation-space Models* Nat. Lang. Eng.  2008
 
-10.  *System Building Cost vs. Output Quality in Data-to-text Generation*  ENLG '09
-
-11. *Data-to-text Generation with Entity Modeling* Ratish Puduppully, Li Dong and Mirella Lapata _2019_
-
-12. *Learning Neural Templates for Text Generation* Sam Wiseman, Stuart M. Shieber, Alexander M. Rush
-
-### Other papers:
-    
-
-1.  *Learning to Sportscast: A Test of Grounded Language Acquisition* In Proceedings of the 25th International Conference on Machine Learning (ICML),. Helsinki, Finland, July 2008.
-
-2.  *Challenges in Data-to-Document Generation*  Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pages 2253–2263 [https://aclweb.org/anthology/D17-1239](https://aclweb.org/anthology/D17-1239)
-
-3.  *What to talk about and how? Selective Generation using LSTMs with Coarse-to-Fine Alignment* Mei, Hongyuan and Bansal, Mohit and Walter, Matthew R. NAACL-HLT 2016
-
-4.  *Statistical Natural Language Generation from Tabular Non-textual Data* Joy Mahapatra and  Sudip Kumar Naskar and  Sivaji Bandyopadhyay} INLG 2016
-
-5.  *The WebNLG Challenge: Generating Text from DBPedia Data* Emilie Colin and Claire Gardent and Yassine Mrabet and Shashi Narayan and Laura Perez INLG 2016
+10.  *System Building Cost vs. Output Quality in Data-to-text Generation*  EN
